@@ -1,3 +1,3 @@
 # ArmariaDesignSystem
 
-A description of this package.
+The design system for the Aramaria app.
